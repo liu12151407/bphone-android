@@ -1,5 +1,5 @@
+BPhone is a Client softphone Customized based on Linphone.
 
-[![pipeline status](https://gitlab.linphone.org/BC/public/linphone-android/badges/release/4.6/pipeline.svg)](https://gitlab.linphone.org/BC/public/linphone-android/commits/release/4.6) [![weblate status](https://weblate.linphone.org/widgets/linphone/-/linphone-android-release-4-6/svg-badge.svg)](https://weblate.linphone.org/engage/linphone/?utm_source=widget)
 
 Linphone is an open source softphone for voice and video over IP calling and instant messaging.
 
